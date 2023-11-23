@@ -1,5 +1,10 @@
 # Change Log
 
+
+## [1.0.2] 2023-11-22
+
+- Update TypeScript dependency from `5.0.4` to `^4.9.5` to resolve a version conflict with `react-scripts@5.0.1`.
+
 ## [1.0.1] 2023-11-22
 
 - initial release
@@ -18,7 +23,7 @@ react-scripts         3.0.0   →     3.3.1
 reactstrap            8.0.0   →     8.4.1
 @types/googlemaps   3.30.19   →    3.39.2
 @types/react        16.8.16   →   16.9.19
-typescript            3.4.5   →     3.7.5
+typescript            3.4.5   →     3.7.5   →     4.9.5  
 ```
 
 ## [1.0.0] 2023-11-22
