@@ -1,6 +1,8 @@
 # Change Log
 
+## [1.0.1] 2023-11-22
 
+- initial release
 
 ### Updated dependencies
 
@@ -23,4 +25,4 @@ typescript            3.4.5   →     3.7.5
 
 ### Original Release
 
-- Added
+- initial commit
